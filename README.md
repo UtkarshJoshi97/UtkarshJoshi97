@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UtkarshJoshi97
 - 👀 I’m interested in Data Analytics and Machine Learning 
-- 🌱 I’m currently learning Image Segmentation 
+- 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me Utkarshjoshi.1997@gmail.com
 
