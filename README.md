@@ -26,7 +26,7 @@ I am a Master's student in Business Analytics at the Carlson School of Managemen
 
 
 
-📫 How to reach me:
+#### 📫 How to reach me:
 
 📧 Email: joshi516@umn.edu
 
