@@ -2,6 +2,7 @@
 
 I am a Master's student in Business Analytics at the Carlson School of Management, University of Minnesota- Twin Cities, with over five years of experience in data science and analytics. Previously, I worked as a Data Science Consultant, helping Fortune 500 clients solve complex business challenges using machine learning, AI, and data-driven insights.
 
+
 📂 What You’ll Find Here
 
 ✅ Academic Projects: Keeping track of my coursework projects, case studies, and business analytics applications.
@@ -9,6 +10,7 @@ I am a Master's student in Business Analytics at the Carlson School of Managemen
 ✅ Hands-on Problem Solving: Regularly working on practice problems and datasets to strengthen my ML & AI skills.
 
 ✅ AI & Optimization: Exploring tools like Optuna for hyperparameter tuning and implementing real-world data science solutions.
+
 
 🔍 Interests and Skills:
 
@@ -21,6 +23,7 @@ I am a Master's student in Business Analytics at the Carlson School of Managemen
 🚀 What I Enjoy: Solving real-world problems through data, building predictive models, exploring AI for business applications
 
 🔍 I'm always eager to collaborate on AI, ML, and analytics-driven projects. Let’s connect!
+
 
 📫 How to reach me:
 
