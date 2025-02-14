@@ -4,7 +4,7 @@ I am a Master's student in Business Analytics at the Carlson School of Managemen
 
 
 
-📂 What You’ll Find Here
+## 📂 What You’ll Find Here
 
 ✅ Academic Projects: Keeping track of my coursework projects, case studies, and business analytics applications.
 
@@ -12,9 +12,7 @@ I am a Master's student in Business Analytics at the Carlson School of Managemen
 
 ✅ AI & Optimization: Exploring tools like Optuna for hyperparameter tuning and implementing real-world data science solutions.
 
-
-
-🔍 Interests and Skills:
+## 🔍 Interests and Skills:
 
 🔹 Core Interests: Data Science, Machine Learning, AI, Business Analytics
 
@@ -31,6 +29,7 @@ I am a Master's student in Business Analytics at the Carlson School of Managemen
 📫 How to reach me:
 
 📧 Email: joshi516@umn.edu
+
 🤝 LinkedIn: www.linkedin.com/in/utjoshi
 
 <!---
