@@ -1,6 +1,6 @@
 👋 Hi there, I'm Utkarsh Joshi!
 
-I am a Master's student in Business Analytics at the Carlson School of Management, University of Minnesota- Twin Cities, with over five years of experience in data science and analytics. Previously, I worked as a Data Science Consultant, helping Fortune 500 clients solve complex business challenges using machine learning, AI, and data-driven insights.
+I am a **Master's student in Business Analytics** at the **Carlson School of Management**, **University of Minnesota**- Twin Cities, with over five years of experience in data science and analytics. Previously, I worked as a Data Science Consultant, helping Fortune 500 clients solve complex business challenges using machine learning, AI, and data-driven insights.
 
 
 
