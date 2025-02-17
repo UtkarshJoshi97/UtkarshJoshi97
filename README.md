@@ -14,17 +14,13 @@ I am a **Master's student in Business Analytics** at the **Carlson School of Man
 
 ## 🔍 Interests and Skills:
 
-🔹 Core Interests: Data Science, Machine Learning, AI, Business Analytics
-
 📊 Technical Skills: Python, SQL, R, C, C++, Tableau, MySQL
 
 📖 Coursework: Statistics, Programming for Data Science, Business Analytics, Database Management, Linear Optimization, Big Data Analytics, Predictive Analytics 
 
-🚀 What I Enjoy: Solving real-world problems through data, building predictive models, exploring AI for business applications
+🚀 Core Interests: Data Science, Machine Learning, AI, Business Analytics
 
 🔍 I'm always eager to collaborate on AI, ML, and analytics-driven projects. Let’s connect!
-
-
 
 #### 📫 How to reach me:
 
