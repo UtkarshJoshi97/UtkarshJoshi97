@@ -14,7 +14,7 @@ I am a **Master's student in Business Analytics** at the **Carlson School of Man
 
 ## 🔍 Interests and Skills:
 
-📊 Technical Skills: Python, SQL, R, C, C++, Tableau, MySQL
+📊 Technical Skills: Python, SQL, R, C, C++, Tableau, MySQL, Azure(Cloud), Statistics 
 
 📖 Coursework: Statistics, Programming for Data Science, Business Analytics, Database Management, Linear Optimization, Big Data Analytics, Predictive Analytics 
 
