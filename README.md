@@ -6,11 +6,11 @@ I am a **Master's student in Business Analytics** at the **Carlson School of Man
 
 ## 📂 What You’ll Find Here
 
-✅ Academic Projects: Keeping track of my coursework projects, case studies, and business analytics applications.
+Academic Projects: Keeping track of my coursework projects, case studies, and business analytics applications.
 
-✅ Hands-on Problem Solving: Regularly working on practice problems and datasets to strengthen my ML & AI skills.
+Hands-on Problem Solving: Regularly working on practice problems and datasets to strengthen my ML & AI skills.
 
-✅ AI & Optimization: Exploring tools like Optuna for hyperparameter tuning and implementing real-world data science solutions.
+AI & Optimization: Exploring tools like Optuna for hyperparameter tuning and implementing real-world data science solutions.
 
 ## 🔍 Interests and Skills:
 
