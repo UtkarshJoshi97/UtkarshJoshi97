@@ -12,7 +12,7 @@ I am a **Master's student in Business Analytics** at the **Carlson School of Man
 
 - AI & Optimization: Exploring tools like Optuna for hyperparameter tuning and implementing real-world data science solutions.
 
-## 🔍 Interests and Skills:
+## Interests and Skills:
 
 - Technical Skills: Python, SQL, R, C, C++, Tableau, MySQL, Azure(Cloud), Statistics 
 
