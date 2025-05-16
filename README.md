@@ -4,7 +4,7 @@ I am a **Master's student in Business Analytics** at the **Carlson School of Man
 
 
 
-## 📂 What You’ll Find Here
+## What You’ll Find Here
 
 - Academic Projects: Keeping track of my coursework projects, case studies, and business analytics applications.
 
@@ -22,7 +22,7 @@ I am a **Master's student in Business Analytics** at the **Carlson School of Man
 
 - I'm always eager to collaborate on AI, ML, and analytics-driven projects. Let’s connect!
 
-#### 📫 How to reach me:
+#### How to reach me:
 
 📧 Email: joshi516@umn.edu
 
