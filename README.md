@@ -7,25 +7,19 @@ I am a **Master's student in Business Analytics** at the **Carlson School of Man
 ## What You’ll Find Here
 
 - Academic Projects: Keeping track of my coursework projects, case studies, and business analytics applications.
-
 - Hands-on Problem Solving: Regularly working on practice problems and datasets to strengthen my ML & AI skills.
-
 - AI & Optimization: Exploring tools like Optuna for hyperparameter tuning and implementing real-world data science solutions.
 
 ## Interests and Skills:
 
 - Technical Skills: Python, SQL, R, C, C++, Tableau, MySQL, Azure(Cloud), Statistics 
-
 - Coursework: Statistics, Programming for Data Science, Business Analytics, Database Management, Linear Optimization, Big Data Analytics, Predictive Analytics 
-
 - Core Interests: Data Science, Machine Learning, AI, Business Analytics
-
 - I'm always eager to collaborate on AI, ML, and analytics-driven projects. Let’s connect!
 
 #### How to reach me:
 
 📧 Email: joshi516@umn.edu
-
 🤝 LinkedIn: www.linkedin.com/in/utjoshi
 
 <!---
