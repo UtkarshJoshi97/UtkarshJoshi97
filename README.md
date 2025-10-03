@@ -36,27 +36,35 @@ Data Scientist with 5+ years of experience in risk management, classification, a
 **Tech stack: Azure pipelines, KPI dashboards, SQL, Databricks**
 
 - Enhanced credit card approval process with data-driven segmentation and ML models, increasing approval rates by ~XX%.
+
 **Tech stack: EDA, PCA, clustering, Random Forest, LightGBM, Docker, Airflow, SHAP**
 
 - Streamlined churn detection and migration workflows, reducing operational costs by ~XX%.
+
 **Tech stack: Data warehouse, ETL, SQL, Databricks, EDA**
 
 - Automated large-scale data ingestion and reporting, cutting processing time by ~XX%.
+
 **Tech stack: Azure ADF, Databricks notebooks, star schema, SQL, CI/CD**
 
 - Improved customer engagement by ~XX% through advanced A/B testing and causal analysis.
+
 **Tech stack: OLS Regression, Propensity Score Matching, fixed effects models**
 
 - Strengthened fraud and anomaly detection, improving model recall and precision by ~XX%.
+
 **Tech stack: Statistical modeling, LSTM, Random Forest, XGBoost, SVM**
 
 - Built synthetic trade datasets for stress testing, increasing robustness and interpretability of compliance models by ~XX%.
+
 **Tech stack: Python, preprocessing pipelines, hyperparameter tuning, F1 optimization**
 
 - Delivered accurate demand forecasts to optimize pricing and inventory management, reducing turnaround by ~XX hours.
+
 **Tech stack: SARIMAX, ensemble models, time series forecasting**
 
 - Accelerated customer support resolution times by ~XX hours through automated NLP systems.
+
 **Tech stack: BERT, RoBERTa, LinearSVC, Logistic Regression meta-model, Docker, Airflow, HITL feedback**
 
 
