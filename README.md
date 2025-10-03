@@ -5,7 +5,7 @@ I am a **Master of Science in Business Analytics (MSBA) graduate** from the **Ca
 ## What You’ll Find Here
 
 - Technical Skills
-- Experience 
+- Professional Experience 
 - Academic Projects
 - Coursework
 - Projects
