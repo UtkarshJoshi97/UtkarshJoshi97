@@ -10,7 +10,7 @@ I am a **Master of Science in Business Analytics (MSBA) graduate** from the **Ca
 
 ## Interests and Skills:
 
-- Technical Skills: 
+Technical Skills: 
 - Programming: Python (Pandas, NumPy, scikit-learn, TensorFlow, PyTorch), R, SQL
 - Data Engineering & Cloud: Spark, Databricks, Snowflake, Azure (ADF, ADL, Blob Storage), AWS (SageMaker, Bedrock, EMR, S3), Docker, Kubernetes, ETL, Data Warehousing, Hive, HDFS, CI/CD
 - Machine Learning: Regression, Classification, Clustering, Forecasting; Deep Learning (CNN, RNN, LSTM, GRU)
@@ -18,9 +18,11 @@ I am a **Master of Science in Business Analytics (MSBA) graduate** from the **Ca
 - Visualization & Tools: Tableau, Adobe Analytics, MS Excel, Jira, Git, Version Control, Agile Methodologies
 
 
-- Coursework: Statistics, Programming for Data Science, Business Analytics, Database Management, Linear Optimization, Big Data Analytics, Predictive Analytics 
-- Core Interests: Data Science, Machine Learning, Artificial Intelligence
-- I'm always eager to collaborate on AI, ML, and analytics-driven projects. Let’s connect!
+Coursework: 
+Statistics, Programming for Data Science, Business Analytics, Database Management, Linear Optimization, Big Data Analytics, Predictive Analytics 
+Core Interests: 
+Data Science, Machine Learning, Artificial Intelligence
+
 
 ## Projects: 
 
