@@ -1,6 +1,6 @@
 👋 Hi there, I'm Utkarsh Joshi!
 
-I am a **Master of Science in Business Analytics (MSBA) graduate** from the **Carlson School of Management**, **University of Minnesota – Twin Cities**, with over five years of experience in data science and analytics. Previously, I worked as a Data Science Consultant, helping Fortune 500 clients solve complex business challenges using machine learning, AI, and data-driven insights.
+I am a **Master of Science in Business Analytics (MSBA) graduate** from the **Carlson School of Management**, **University of Minnesota – Twin Cities**, with over **5 years of experience** in data science and analytics. Previously, I worked as a Data Science Consultant, helping Fortune 500 clients solve complex business challenges using machine learning, AI, and data-driven insights.
 
 ## What You’ll Find Here
 
@@ -10,19 +10,13 @@ I am a **Master of Science in Business Analytics (MSBA) graduate** from the **Ca
 - Coursework
 - Projects
 
-## Interests and Skills:
 
-Technical Skills: 
+## Technical Skills: 
 - Programming: Python (Pandas, NumPy, scikit-learn, TensorFlow, PyTorch), R, SQL
 - Data Engineering & Cloud: Spark, Databricks, Snowflake, Azure (ADF, ADL, Blob Storage), AWS (SageMaker, Bedrock, EMR, S3), Docker, Kubernetes, ETL, Data Warehousing, Hive, HDFS, CI/CD
 - Machine Learning: Regression, Classification, Clustering, Forecasting; Deep Learning (CNN, RNN, LSTM, GRU)
 - Artificial Intelligence: NLP (BERT, RoBERTa, NLTK), LLMs (OpenAI GPT, Hugging Face, RAG, LangChain)
 - Visualization & Tools: Tableau, Adobe Analytics, MS Excel, Jira, Git, Version Control, Agile Methodologies
-
-
-Coursework: 
-
-Statistics, Programming for Data Science, Business Analytics, Database Management, Linear Optimization, Big Data Analytics, Predictive Analytics 
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -63,7 +57,12 @@ Tech stack: SARIMAX, ensemble models, time series forecasting.
 Tech stack: BERT, RoBERTa, LinearSVC, Logistic Regression meta-model, Docker, Airflow, HITL feedback.
 
 
-## Projects: 
+## Data Science Projects: 
+
+Coursework: 
+
+Statistics, Programming for Data Science, Business Analytics, Database Management, Linear Optimization, Big Data Analytics, Predictive Analytics 
+
 
 - [NASA CMIP6 Temporal Downscaling](https://github.com/UtkarshJoshi97/Research_nasa-cmip6-temporal-downscaling-daily2hourly)  
 
