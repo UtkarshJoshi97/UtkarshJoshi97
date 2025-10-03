@@ -6,7 +6,7 @@ MSBA graduate from the **Carlson School of Management, University of Minnesota â
 
 - [Technical Skills](#Technical-Skills)
 - [Professional Experience](#professional-experience)
-- [Academic Data Science Projects](#Data-Science-Projects)
+- [Academic Data Science Projects](#Academic-Data-Science-Projects)
 - [Core Interests](#Core-Interests)
 - [How to Reach Me](#how-to-reach-me)
 
