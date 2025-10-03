@@ -20,14 +20,8 @@ I am a **Master of Science in Business Analytics (MSBA) graduate** from the **Ca
 
 ## PROFESSIONAL EXPERIENCE
 
-### Deloitte 
-
-Consultant | Mar 2022 – Aug 2024
-### Mu Sigma Inc. 
-
-Senior Decision Scientist | Mar 2020 – Mar 2022
-
-Decision Scientist | Dec 2018 – Mar 2020
+### Deloitte - Consultant | Mar 2022 – Aug 2024
+### Mu Sigma Inc. - Senior Decision Scientist | Mar 2020 – Mar 2022 & Decision Scientist | Dec 2018 – Mar 2020
 
 - Drove omnichannel GTM strategy improvements, optimizing customer LTV analysis and enabling revenue growth of ~XX%.
 Tech stack: Azure pipelines, KPI dashboards, SQL, Databricks.
