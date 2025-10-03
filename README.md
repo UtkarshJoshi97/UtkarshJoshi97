@@ -29,33 +29,30 @@ Data Science, Machine Learning, Artificial Intelligence
 
 ## Projects: 
 
+## Projects
 
-Research nasa-cmip6-temporal-downscaling-daily2hourly
-- Developed a temporal downscaling pipeline converting daily climate projections to hourly resolution.
-- Used Python, statistical modeling, and time-series interpolation to increase data granularity.
-- Improved usability of climate datasets for higher-resolution modeling and analysis.
+- [NASA CMIP6 Temporal Downscaling](https://github.com/UtkarshJoshi97/nasa-cmip6-temporal-downscaling-daily2hourly)  
+Developed a temporal downscaling pipeline converting daily climate projections to hourly resolution.
+Used Python, statistical modeling, and time-series interpolation to increase data granularity.
+Improved usability of climate datasets for higher-resolution modeling and analysis.
 
-Causal-Inference
-- Executed four hands-on assignments applying causal inference methods (difference-in-differences, matching, instrumental variables) on real datasets using R.
-- Identified policy impacts and causal relationships, and documented findings with visualizations and statistical tests.
+- [Causal Inference](https://github.com/UtkarshJoshi97/Causal-Inference)  
+Executed four hands-on assignments applying causal inference methods (difference-in-differences, matching, instrumental variables) on real datasets using R.
+Identified policy impacts and causal relationships, and documented findings with visualizations and statistical tests.
 
-MinneMuDAC_DataScience_Challenge
-- Participated in MinneMUDAC 2025 challenge in partnership with Big Brothers Big Sisters Twin Cities.
-- Built predictive models to optimize youth mentorship match success metrics.
-- Presented results to stakeholders and delivered actionable data insights for program improvements.
+- [MinneMUDAC Data Science Challenge](https://github.com/UtkarshJoshi97/MinneMuDAC_DataScience_Challenge)  
+Participated in MinneMUDAC 2025 challenge in partnership with Big Brothers Big Sisters Twin Cities.
+Built predictive models to optimize youth mentorship match success metrics.
+Presented results to stakeholders and delivered actionable data insights for program improvements.
 
-PredictiveAnalytics-Workbooks_and_Project
-- Completed a set of ML/NLP projects exploring regression, classification, clustering, and language modeling.
-- Designed data pipelines, feature engineering modules, and model evaluation dashboards.
-- Demonstrated comparative performance of algorithms (e.g. logistic regression, random forest, transformer models).
+- [Predictive Analytics Projects](https://github.com/UtkarshJoshi97/PredictiveAnalytics-Workbooks_and_Project)  
+Completed a set of ML/NLP projects exploring regression, classification, clustering, and language modeling.
+Designed data pipelines, feature engineering modules, and model evaluation dashboards.
+Demonstrated comparative performance of algorithms (e.g. logistic regression, random forest, transformer models).
 
-Kaggle-Competition-March-Machine-Learning-Mania-2025
-- Competed in a Kaggle competition, built and tuned ML models on the competition dataset.
-- Executed cross-validation, ensembling, and model stacking to maximize score.
-
-BDA-Trends
-- Designed a marketing manager assistant framework to extract insights and forecast campaign performance.
-- Used data visualization, predictive modeling, and user interface logic to assist marketing decisions.
+- [Kaggle March Machine Learning Mania 2025](https://github.com/UtkarshJoshi97/Kaggle-Competition-March-Machine-Learning-Mania-2025)  
+Competed in a Kaggle competition, built and tuned ML models on the competition dataset.
+Executed cross-validation, ensembling, and model stacking to maximize score.
 
 
 #### How to reach me:
