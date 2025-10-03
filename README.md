@@ -37,6 +37,14 @@ Used Python, statistical modeling, and time-series interpolation to increase dat
 
 Improved usability of climate datasets for higher-resolution modeling and analysis.
 
+- [Predictive Analytics Projects](https://github.com/UtkarshJoshi97/PredictiveAnalytics-Workbooks_and_Project)  
+
+Completed a set of ML/NLP projects exploring regression, classification, clustering, and language modeling.
+
+Designed data pipelines, feature engineering modules, and model evaluation dashboards.
+
+Demonstrated comparative performance of algorithms (e.g. logistic regression, random forest, transformer models).
+
 - [Causal Inference](https://github.com/UtkarshJoshi97/Causal-Inference)  
 
 Executed four hands-on assignments applying causal inference methods (difference-in-differences, matching, instrumental variables) on real datasets using R.
@@ -50,14 +58,6 @@ Participated in MinneMUDAC 2025 challenge in partnership with Big Brothers Big S
 Built predictive models to optimize youth mentorship match success metrics.
 
 Presented results to stakeholders and delivered actionable data insights for program improvements.
-
-- [Predictive Analytics Projects](https://github.com/UtkarshJoshi97/PredictiveAnalytics-Workbooks_and_Project)  
-
-Completed a set of ML/NLP projects exploring regression, classification, clustering, and language modeling.
-
-Designed data pipelines, feature engineering modules, and model evaluation dashboards.
-
-Demonstrated comparative performance of algorithms (e.g. logistic regression, random forest, transformer models).
 
 - [Kaggle March Machine Learning Mania 2025](https://github.com/UtkarshJoshi97/Kaggle-Competition-March-Machine-Learning-Mania-2025)  
 
