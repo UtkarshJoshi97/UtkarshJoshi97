@@ -1,6 +1,6 @@
 👋 Hi there, I'm Utkarsh Joshi!
 
-I am a **Master of Science in Business Analytics (MSBA) graduate** from the **Carlson School of Management**, **University of Minnesota – Twin Cities**, with over **5 years of experience** in data science and analytics. Previously, I worked as a Data Science Consultant, helping Fortune 500 clients solve complex business challenges using machine learning, AI, and data-driven insights.
+MSBA graduate from the **Carlson School of Management, University of Minnesota – Twin Cities**, with **5+ years of experience** in data science and analytics. Former Data Science Consultant delivering ML- and AI-driven solutions for Fortune 500 clients.
 
 ## What You’ll Find Here
 
