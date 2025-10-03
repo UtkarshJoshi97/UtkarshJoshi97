@@ -19,8 +19,11 @@ Technical Skills:
 
 
 Coursework: 
+
 Statistics, Programming for Data Science, Business Analytics, Database Management, Linear Optimization, Big Data Analytics, Predictive Analytics 
+
 Core Interests: 
+
 Data Science, Machine Learning, Artificial Intelligence
 
 
