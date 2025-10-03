@@ -33,6 +33,7 @@ MSBA graduate from the **Carlson School of Management, University of Minnesota â
 Data Scientist with 5+ years of experience in risk management, classification, and predictive modeling across retail and financial services. 
 **Skilled in designing KPIs, productionizing ML solutions, and building scalable ETL pipelines and dashboards**
 - Drove omnichannel GTM strategy improvements, optimizing customer LTV analysis and enabling revenue growth of ~XX%.
+
 **Tech stack: Azure pipelines, KPI dashboards, SQL, Databricks**
 
 - Enhanced credit card approval process with data-driven segmentation and ML models, increasing approval rates by ~XX%.
