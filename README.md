@@ -4,14 +4,14 @@ MSBA graduate from the **Carlson School of Management, University of Minnesota â
 
 ## What Youâ€™ll Find Here
 
-- Technical Skills
-- Professional Experience 
-- Academic Projects
-- Coursework
-- Projects
+- [Technical Skills](#Technical-Skills)
+- [Professional Experience](#professional-experience)
+- [Data Science Projects](#Data-Science-Projects)
+- [Coursework](#Coursework)
+- [Core Interests](#Core-Interests)
+- [How to Reach Me](#how-to-reach-me)
 
-
-## Technical Skills: 
+## Technical Skills 
 - Programming: Python (Pandas, NumPy, scikit-learn, TensorFlow, PyTorch), R, SQL
 - Data Engineering & Cloud: Spark, Databricks, Snowflake, Azure (ADF, ADL, Blob Storage), AWS (SageMaker, Bedrock, EMR, S3), Docker, Kubernetes, ETL, Data Warehousing, Hive, HDFS, CI/CD
 - Machine Learning: Regression, Classification, Clustering, Forecasting; Deep Learning (CNN, RNN, LSTM, GRU)
@@ -25,7 +25,7 @@ MSBA graduate from the **Carlson School of Management, University of Minnesota â
 - **Mu Sigma Inc. | Decision Scientist | Dec 2018 â€“ Mar 2020**
 
 
-### Summary:
+### Summary
 
 Data Scientist with 5+ years of experience in risk management, classification, and predictive modeling across retail and financial services. 
 **Skilled in designing KPIs, productionizing ML solutions, and building scalable ETL pipelines and dashboards**
