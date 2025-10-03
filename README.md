@@ -29,7 +29,7 @@ Data Science, Machine Learning, Artificial Intelligence
 
 ## Projects: 
 
-- [NASA CMIP6 Temporal Downscaling](https://github.com/UtkarshJoshi97/nasa-cmip6-temporal-downscaling-daily2hourly)  
+- [NASA CMIP6 Temporal Downscaling](https://github.com/UtkarshJoshi97/Research_nasa-cmip6-temporal-downscaling-daily2hourly)  
 
 Developed a temporal downscaling pipeline converting daily climate projections to hourly resolution.
 
