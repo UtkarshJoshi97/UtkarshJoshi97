@@ -4,11 +4,7 @@ MSBA graduate from the **Carlson School of Management, University of Minnesota â
 
 ## What Youâ€™ll Find Here
 
-- [Technical Skills](#Technical-Skills)
-- [Professional Experience](#professional-experience)
-- [Academic Data Science Projects](#Academic-Data-Science-Projects)
-- [Core Interests](#Core-Interests)
-- [How to Reach Me](#how-to-reach-me)
+- [Technical Skills](#Technical-Skills) | [Professional Experience](#professional-experience) | [Academic Data Science Projects](#Academic-Data-Science-Projects) | [Core Interests](#Core-Interests) | [How to Reach Me](#how-to-reach-me)
 
 ## Technical Skills 
 - Programming: Python (Pandas, NumPy, scikit-learn, TensorFlow, PyTorch), R, SQL
