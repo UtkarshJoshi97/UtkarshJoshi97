@@ -26,6 +26,7 @@ I am a **Master of Science in Business Analytics (MSBA) graduate** from the **Ca
 ### Senior Decision Scientist | Mar 2020 – Mar 2022 
 ### Decision Scientist | Dec 2018 – Mar 2020
 
+## Data Scientist with 5+ years of experience in risk management, classification, and predictive modeling across retail and financial services. Skilled in designing KPIs, productionizing ML solutions, and building scalable ETL pipelines and dashboards
 - Drove omnichannel GTM strategy improvements, optimizing customer LTV analysis and enabling revenue growth of ~XX%.
 Tech stack: Azure pipelines, KPI dashboards, SQL, Databricks.
 
