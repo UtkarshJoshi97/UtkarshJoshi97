@@ -20,13 +20,13 @@ MSBA graduate from the **Carlson School of Management, University of Minnesota �
 
 ## PROFESSIONAL EXPERIENCE
 
-## **Deloitte**
-### Consultant | Mar 2022 – Aug 2024
-## **Mu Sigma Inc.**
-### Senior Decision Scientist | Mar 2020 – Mar 2022 
-### Decision Scientist | Dec 2018 – Mar 2020
+### **Deloitte**
+#### Consultant | Mar 2022 – Aug 2024
+### **Mu Sigma Inc.**
+#### Senior Decision Scientist | Mar 2020 – Mar 2022 
+#### Decision Scientist | Dec 2018 – Mar 2020
 
-## Summary:
+### Summary:
 
 Data Scientist with 5+ years of experience in risk management, classification, and predictive modeling across retail and financial services. Skilled in designing KPIs, productionizing ML solutions, and building scalable ETL pipelines and dashboards
 - Drove omnichannel GTM strategy improvements, optimizing customer LTV analysis and enabling revenue growth of ~XX%.
